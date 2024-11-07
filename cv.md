@@ -40,3 +40,29 @@ updated with emerging technologies.
         <li>Eager to learn</li>
     </ul>
 </details>
+
+---
+### Code Example
+
+<p align='justify'>
+The <b>maximum sum subarray</b> problem consists in finding the maximum sum of a contiguous subsequence in an array or list of integers:
+</p>
+
+```js
+function maxSequence(arr) {
+  let sum = 0; 
+  let max = 0;
+
+  for(let v of arr) {
+    sum = Math.max(0, sum + v);
+    max = Math.max(max, sum);
+  }
+  return max;
+}
+```
+
+---
+### Languages
+- Ukrainian (_native_)
+- Russian (_native_)
+- English (_A2_)
