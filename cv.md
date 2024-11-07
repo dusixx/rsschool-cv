@@ -5,7 +5,7 @@ _Frontend Developer_
 ### Contacts 
 
 - [GitHub](https://github.com/dusixx)
-- [Linkdein](https://www.linkedin.com/in/#) 
+- [Linkedin](https://www.linkedin.com/in/#) 
 - [Telegram](https://www.t.me/#)
 - [E-mail](mailto:andrew.dev@fake.com)
 
